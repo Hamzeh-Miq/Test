@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: grey;
+   }
+   img {
+    
+       width: 500px;
+       height: 500px;
+        
+       }
+   nav ul {
+       
+    list-style-type: none;
+    padding: 20px;
+    background-color: black ;
+   }
+   
+   nav ul li {
+    display: inline;
+    margin-right: 20px;
+   }
+   
+   nav ul li a {
+    text-decoration: none;
+    color: red;
+   }
+   
+   h1 {
+       text-align: center;
+    padding: 20px;
+   }
+   
+   p {
+    padding: 20px;
+   }   
